@@ -30,8 +30,8 @@ var education = {
 	],
 	"onlineCourses": [
 	{
-		"name": "Udacity",
-		"course": "JavaScript"
+		"name": " Udacity ",
+		"course": " JavaScript "
 	}
 	]
 }
@@ -64,13 +64,13 @@ var projects = {
 	"examples": [
 		{
 			"name": "Internet das Coisas (IoT) – Máquina de vendas",
-			"description": "Analise e desenvolvimento da aplicação web para um sistema embebido (mbed, maquina de vendas).Tecnologias usadas: PHP 5, JavaScript, HTML, MySQL 5.x, Apache HTTP Server, C/C++.",
+			"description": "Analise e desenvolvimento da aplicação web para um sistema embebido (mbed, maquina de vendas). Tecnologias usadas: PHP 5, JavaScript, HTML, MySQL 5.x, Apache HTTP Server, C/C++.",
 			"year": "2014"
 		},
 		{	
 			"name": "ESTIG - IPB - Fundamentos de Robótica",
 			"description": "Lego MindStorms NXT, Robot procura a saída do Labirinto. Linguagem utilizada: JAVA.",
-			"name": "Fundamentos de Robótica",
+			"name": "Fundamentos de Robótica ",
 			"year": "2014"
 		},
 		{	
